@@ -1,4 +1,4 @@
-Hi 👋 My name is Giovan Christoffel S
+Hi 👋 My name is Giovan Christoffel Sihombing
 =====================================
 
 Computer Engineering Student
