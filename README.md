@@ -10,7 +10,6 @@ I just jump to programming since 2017 and now still study it at Universitas Indo
 * ✉️  You can contact me at [christoffelsihombing@gmail.com](mailto:christoffelsihombing@gmail.com)
 * 🧠  I'm learning JavaScript and Python
 * 🤝  I'm open to collaborating on Python Project
-* ⚡  Sometimes i can be a Poet
 
 ### Skills
 
