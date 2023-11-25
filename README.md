@@ -1,4 +1,4 @@
-Hi 👋 My name is Giovan "MorpKnight"
+Hi 👋 My name is Giovan Christoffel Sihombing
 =====================================
 
 Computer Engineering Student
