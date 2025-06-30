@@ -4,12 +4,12 @@ Hi 👋 My name is Giovan Christoffel Sihombing
 Computer Engineering Student
 ----------------------------
 
-I just jump to programming since 2017 and now still study it at Universitas Indonesia
+I just jump to programming since 2017 and now still study it at Universitas Indonesia (final year student)
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [christoffelsihombing@gmail.com](mailto:christoffelsihombing@gmail.com)
-* 🧠  I'm learning JavaScript and Python
-* 🤝  I'm open to collaborating on Python Project
+* 🧠  I'm learning Go & Django
+* 🤝  I'm open to collaborating on any open source project
 
 ### Skills
 
